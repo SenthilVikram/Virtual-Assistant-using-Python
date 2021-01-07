@@ -1,0 +1,7 @@
+Json
+request
+speech_recognition
+Pyttsx3
+Wikipedia
+Ecapture
+time
